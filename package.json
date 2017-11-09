@@ -1,0 +1,15 @@
+{
+  "name": "sqlly",
+  "version": "0.0.1",
+  "description": "SQL commands",
+  "main": "src/main/javascript/sqlly.js",
+  "repository": "https://github.com/spearson23/sqlly.git",
+  "author": "Steven Pearson <spearson23@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "pg": "^7.4.0"
+  }
+}
